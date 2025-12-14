@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "num_dialomn", "num_dialomn\num_dialomn.vcxproj", "{9A96918F-1D80-4786-AD3E-00E970759DEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A96918F-1D80-4786-AD3E-00E970759DEA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9A96918F-1D80-4786-AD3E-00E970759DEA}.Debug|Win32.Build.0 = Debug|Win32
+		{9A96918F-1D80-4786-AD3E-00E970759DEA}.Release|Win32.ActiveCfg = Release|Win32
+		{9A96918F-1D80-4786-AD3E-00E970759DEA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
